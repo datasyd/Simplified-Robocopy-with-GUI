@@ -38,8 +38,8 @@ Here’s what the simplified Robocopy interface looks like:
 ---
 
 ## Usage
-Run the .exe file (automatically elevates as admin)
-Run the PowerShell script as **Administrator** to ensure Robocopy can access all files and folders properly.
+- Run the .exe file (automatically elevates as admin)
+- Run the PowerShell script as **Administrator** to ensure Robocopy can access all files and folders properly.
 
 ```powershell
 # Example
