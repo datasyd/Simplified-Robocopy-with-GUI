@@ -43,4 +43,4 @@ Here’s what the simplified Robocopy interface looks like:
 
 ```powershell
 # Example
-Start-Process powershell -Verb RunAs -ArgumentList '.\Robocopy-GUI.ps1'
+Start-Process powershell -Verb RunAs '.\Simplified RoboCopy.ps1'
