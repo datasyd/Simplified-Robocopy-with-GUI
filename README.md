@@ -1,4 +1,4 @@
-# Simplyfied Robocopy with GUI
+# Simplified Robocopy with GUI
 
 A PowerShell script with a graphical user interface that activates **Robocopy** and allows the use of various command-line switches.
 
@@ -38,7 +38,7 @@ Here’s what the simplified Robocopy interface looks like:
 ---
 
 ## Usage
-
+Run the .exe file (automatically elevates as admin)
 Run the PowerShell script as **Administrator** to ensure Robocopy can access all files and folders properly.
 
 ```powershell
